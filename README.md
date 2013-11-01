@@ -6,5 +6,4 @@ DataCurators-Subgroup
 
 * Alisha Agrawal (Data Curator)
 * Theresa Andrasfay
-* Jie Zhang
-** adf
+  * Jie Zhang
