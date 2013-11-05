@@ -12,7 +12,7 @@ DataCurators-Subgroup
 * Presentor
  * Lorraine Hsiao 
  
-###Group SMART Goal
+###Group SMART Goals and Tasks
 
 * Clean up the SCEC data from 1938-2013: remove NA's, create datetime column
 * Read Luen article to determine magnitude type needed for analysis
