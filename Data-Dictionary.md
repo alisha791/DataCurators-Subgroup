@@ -1,3 +1,6 @@
+Link to Complete Data Dictionary: http://www.data.scec.org/eq-catalogs/docs/scec_dc.html
+
+
 #####YYYY/MM/DD:
 * Year, Month, Day
 
