@@ -1,11 +1,9 @@
-######YYYY/MM/DD:
+#####YYYY/MM/DD:
 * Year, Month, Day
-
-###HH:mm:SS.ss:
+#####HH:mm:SS.ss:
 * UTC Time: 7 hours ahead of Pacific Daylight Time, 8 hours ahead of Pacific Standard Time
 * Hour, Minute, Second, Milisecond
-
-###ET:
+#####ET:
 * Event Type
   * local (le) 
   * regional (re)
@@ -14,11 +12,9 @@
   * sonic boom (sn)
   * nuclear blast (nt)
   * unknown event (uk)
-	
-###Mag:
+#####Mag:
 * Magnitude 
-
-###M:
+#####M:
 * Type of Magnitude
   * 'e' energy magnitude
   * 'w' moment magnitude
@@ -26,36 +22,25 @@
   * 's' surface-wave magnitude
   * 'l' local (WOOD-ANDERSON) magnitude
   * 'c' coda amplitude
-  * h' helicorder magnitude (short-period Benioff) 
+  * 'h' helicorder magnitude (short-period Benioff) 
   * 'd' coda duration magnitude
-	* 'n' no magnitude
-	
-###Lat:
+  * 'n' no magnitude
+#####Lat:
 * Latitude in degrees
-
-###Lon:
+#####Lon:
 * Longitude in degrees
-
-###Depth:
+#####Depth:
 * In Kilometers
-
-###Q:
+#####Q:
 * Location Quality
   * 'A' +- 1 km horizontal distance, +- 2 km depth
   * 'B' +- 2 km horizontal distance, +- 5 km depth
   * 'C' +- 5 km horizontal distance, no depth restriction
   * 'D' +- 5 km horizontal distance
-	* 'Z'	no quality listed in database
-	
-###EVID:
+  * 'Z'	no quality listed in database
+#####EVID:
 * Event ID
-
-###NPH:
+#####NPH:
 * Number of Picked Phases
-
-###NGRM:
+#####NGRM:
 * Number of grams (# of station traces)
-
-
-
-
