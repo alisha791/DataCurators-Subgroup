@@ -1,4 +1,4 @@
-###YYYY/MM/DD:
+####YYYY/MM/DD:
 * Year, Month, Day
 
 ###HH:mm:SS.ss:
