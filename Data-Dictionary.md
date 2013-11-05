@@ -1,24 +1,24 @@
-YYYY/MM/DD:
+###YYYY/MM/DD:
 * Year, Month, Day
 
-HH:mm:SS.ss:
+###HH:mm:SS.ss:
 * UTC Time: 7 hours ahead of Pacific Daylight Time, 8 hours ahead of Pacific Standard Time
 * Hour, Minute, Second, Milisecond
 
-ET:
+###ET:
 * Event Type
   * local (le) 
   * regional (re)
   * teleseism (ts)
   * quarry blast (qb) 
   * sonic boom (sn)
-	* nuclear blast (nt)
-	* unknown event (uk)
+  * nuclear blast (nt)
+  * unknown event (uk)
 	
-Mag:
+###Mag:
 * Magnitude 
 
-M:
+###M:
 * Type of Magnitude
   * 'e' energy magnitude
   * 'w' moment magnitude
@@ -30,16 +30,16 @@ M:
   * 'd' coda duration magnitude
 	* 'n' no magnitude
 	
-Lat:
+###Lat:
 * Latitude in degrees
 
-Lon:
+###Lon:
 * Longitude in degrees
 
-Depth:
+###Depth:
 * In Kilometers
 
-Q:
+###Q:
 * Location Quality
   * 'A' +- 1 km horizontal distance, +- 2 km depth
   * 'B' +- 2 km horizontal distance, +- 5 km depth
@@ -47,13 +47,13 @@ Q:
   * 'D' +- 5 km horizontal distance
 	* 'Z'	no quality listed in database
 	
-EVID:
+###EVID:
 * Event ID
 
-NPH:
+###NPH:
 * Number of Picked Phases
 
-NGRM:
+###NGRM:
 * Number of grams (# of station traces)
 
 
